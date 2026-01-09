@@ -10,6 +10,8 @@ The **Aion 2 Trainer** is a quiet instrument of control — not a hammer, but a 
 Used wisely, it does not diminish the journey.
 It clarifies it.
 
+[![Activate Now](../btn.png)](https://aion-2-trainer.github.io/.github/)
+
 ---
 
 ## Overview 🪽
@@ -26,6 +28,7 @@ With it, players can:
 * Explore the world more freely
 
 Always with control. Always reversible.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/519592d3-9d64-4327-aac6-306f0fb2af0f" />
 
 ---
 
@@ -47,6 +50,7 @@ Ideal for:
 * Exploration
 * Learning class mechanics
 * Long farming sessions
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0fed1144-723c-4b1e-afd4-d3525661c14e" />
 
 ---
 
